@@ -1,4 +1,4 @@
-package ru.otus.daggerhomework
+package ru.otus.daggerhomework.main
 
 import androidx.annotation.ColorInt
 import kotlinx.coroutines.flow.MutableStateFlow
